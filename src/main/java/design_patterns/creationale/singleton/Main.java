@@ -1,4 +1,4 @@
-import dayCreationale.singleton.ServerCollection;
+package design_patterns.creationale.singleton;
 
 public class Main {
     public static void main(String[] args) {
