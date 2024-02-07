@@ -9,6 +9,6 @@ public class Main {
         System.out.println(server1.getHdd());
 
         Computer pc1 = ComputerFactory.getComputer(new PcFactory(16,200));
-        System.out.println(pc1.getHdd());
+//        System.out.println(pc1.getHdd());
     }
 }
