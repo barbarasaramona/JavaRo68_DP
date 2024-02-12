@@ -1,4 +1,4 @@
-package design_patterns.mediator;
+package design_patterns.comportamentale.mediator;
 
 public abstract class User {
 

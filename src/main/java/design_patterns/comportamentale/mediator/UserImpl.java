@@ -1,4 +1,4 @@
-package design_patterns.mediator;
+package design_patterns.comportamentale.mediator;
 
 public class UserImpl extends User{
     public UserImpl(ChatMediator chatMediator,String userName, String name) {
